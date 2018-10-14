@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "812341916448",
+    "firebase_url": "https://gpsapp-d0e3c.firebaseio.com",
+    "project_id": "gpsapp-d0e3c",
+    "storage_bucket": "gpsapp-d0e3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812341916448:android:fe75274629a64e9e",
+        "android_client_info": {
+          "package_name": "com.example.temi.gps_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812341916448-pl01dut85qqsn74k2bp7dloncba7g1fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.temi.gps_app",
+            "certificate_hash": "d44b4dc70c6dc530b4114ad5b49f3267ebd4a39f"
+          }
+        },
+        {
+          "client_id": "812341916448-00gkednp0bdj07lc035egvdionmofo8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaAqEx1j3DYzL3aACVIYOmDn36KFUkIX4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812341916448-00gkednp0bdj07lc035egvdionmofo8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
